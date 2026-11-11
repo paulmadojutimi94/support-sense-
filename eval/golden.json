@@ -1,0 +1,1709 @@
+[
+  {
+    "query": "I forgot my password",
+    "top": [
+      {
+        "id": "KB-001",
+        "score": 7.211824949275085,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-026",
+        "score": 2.110711919478012,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-005",
+        "score": 1.7172407028397465,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "how do I reset my password",
+    "top": [
+      {
+        "id": "KB-001",
+        "score": 6.622627569979214,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-005",
+        "score": 4.10950717119689,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-026",
+        "score": 2.110711919478012,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "never got the password reset email",
+    "top": [
+      {
+        "id": "KB-001",
+        "score": 8.416294415231826,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-030",
+        "score": 5.820100505415196,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-005",
+        "score": 4.10950717119689,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "can't remember my login details",
+    "top": [
+      {
+        "id": "KB-020",
+        "score": 3.1604941721483337,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-005",
+        "score": 3.0119680875733392,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-004",
+        "score": 2.2390012598145628,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "change the email on my account",
+    "top": [
+      {
+        "id": "KB-002",
+        "score": 7.852381261954389,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-005",
+        "score": 3.4895359932580434,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-027",
+        "score": 2.9965282844548904,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "update my username address to a new one",
+    "top": [
+      {
+        "id": "KB-002",
+        "score": 11.033689583396596,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-019",
+        "score": 5.247168411660276,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-001",
+        "score": 4.715579434903888,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "set up two factor authentication",
+    "top": [
+      {
+        "id": "KB-003",
+        "score": 11.044645256461918,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-005",
+        "score": 4.4648235285475035,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-004",
+        "score": 3.5557499508882966,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "turn on 2FA",
+    "top": [
+      {
+        "id": "KB-003",
+        "score": 3.9470361991530467,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-005",
+        "score": 3.556915043574303,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-004",
+        "score": 3.5557499508882966,
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "query": "add an authenticator app for extra security",
+    "top": [
+      {
+        "id": "KB-003",
+        "score": 10.99060259595868,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-026",
+        "score": 4.561110541301569,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-028",
+        "score": 2.6439243254454126,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "lost my phone and can't get verification codes",
+    "top": [
+      {
+        "id": "KB-004",
+        "score": 11.926024319592017,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-003",
+        "score": 7.489117397334066,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-002",
+        "score": 5.197786154345678,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "where do I enter a backup code",
+    "top": [
+      {
+        "id": "KB-004",
+        "score": 7.209708332522348,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-002",
+        "score": 6.479196759554085,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-003",
+        "score": 5.475652635063202,
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "query": "account locked too many attempts",
+    "top": [
+      {
+        "id": "KB-005",
+        "score": 19.095039195652188,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-001",
+        "score": 3.716929881192655,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-026",
+        "score": 3.5581274653663564,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "it says my account is locked",
+    "top": [
+      {
+        "id": "KB-005",
+        "score": 5.591628888873058,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-001",
+        "score": 3.716929881192655,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-026",
+        "score": 3.5581274653663564,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "delete my account",
+    "top": [
+      {
+        "id": "KB-006",
+        "score": 4.863100940095852,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-012",
+        "score": 2.884204167114944,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-002",
+        "score": 1.7048922750053812,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "I want to close my account permanently",
+    "top": [
+      {
+        "id": "KB-006",
+        "score": 7.883600257749175,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-022",
+        "score": 2.601834495975582,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-012",
+        "score": 2.5767534393897202,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "export all my data",
+    "top": [
+      {
+        "id": "KB-007",
+        "score": 9.111119683404594,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-010",
+        "score": 4.003904456752984,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-008",
+        "score": 2.0912730843467338,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "GDPR request download everything you store about me",
+    "top": [
+      {
+        "id": "KB-007",
+        "score": 15.788783317260375,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-017",
+        "score": 4.23428252593125,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-020",
+        "score": 3.5042859355984417,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "wifi sync not working",
+    "top": [
+      {
+        "id": "KB-008",
+        "score": 8.166684133209833,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-010",
+        "score": 5.567227556312,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-009",
+        "score": 3.453034643933623,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "Wi-Fi connected but nothing uploads",
+    "top": [
+      {
+        "id": "KB-008",
+        "score": 7.5780435407206035,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-010",
+        "score": 4.096601740326346,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-029",
+        "score": 2.9296645015838587,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "files not syncing between my devices",
+    "top": [
+      {
+        "id": "KB-009",
+        "score": 11.395373628407924,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-008",
+        "score": 5.950535230089016,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-010",
+        "score": 3.039213016963277,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "I see a conflicted copy of my document",
+    "top": [
+      {
+        "id": "KB-009",
+        "score": 6.895835165538549,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-007",
+        "score": 3.54054733174062,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-014",
+        "score": 2.1901633664535702,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "sync using mobile data",
+    "top": [
+      {
+        "id": "KB-010",
+        "score": 11.219053134253675,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-008",
+        "score": 5.583543042859661,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-007",
+        "score": 3.9148357698495464,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "does it work on cellular while roaming",
+    "top": [
+      {
+        "id": "KB-010",
+        "score": 12.088099029190882,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-004",
+        "score": 4.5485746411893215,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-023",
+        "score": 2.6269756902007426,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "automatically back up my photos",
+    "top": [
+      {
+        "id": "KB-011",
+        "score": 10.458165692298522,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-012",
+        "score": 3.4521081348689324,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-023",
+        "score": 3.0094540906153804,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "upload camera roll pictures",
+    "top": [
+      {
+        "id": "KB-011",
+        "score": 14.525608316290922,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-023",
+        "score": 4.548922480752895,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-012",
+        "score": 3.4521081348689324,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "recover deleted photos",
+    "top": [
+      {
+        "id": "KB-012",
+        "score": 11.753552902437058,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-006",
+        "score": 4.7273607226340655,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-011",
+        "score": 3.6011080801800066,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "I accidentally removed a file can I get it back from trash",
+    "top": [
+      {
+        "id": "KB-012",
+        "score": 6.18354043366578,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-014",
+        "score": 4.158796737329309,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-006",
+        "score": 4.111814466421199,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "share a folder with my team",
+    "top": [
+      {
+        "id": "KB-013",
+        "score": 8.095444282017539,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-028",
+        "score": 3.6829859929542756,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-001",
+        "score": 2.2324317821110053,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "create a link with a password and expiry",
+    "top": [
+      {
+        "id": "KB-013",
+        "score": 11.42898090153917,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-001",
+        "score": 5.106481020348873,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-007",
+        "score": 3.0673783486905726,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "my storage is full",
+    "top": [
+      {
+        "id": "KB-014",
+        "score": 6.866974336339609,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-017",
+        "score": 2.149505790810374,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-023",
+        "score": 2.149505790810374,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "out of space what is using my quota",
+    "top": [
+      {
+        "id": "KB-014",
+        "score": 7.215148677500691,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-027",
+        "score": 4.09058792738419,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-001",
+        "score": 2.756982029977865,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "upgrade to pro plan",
+    "top": [
+      {
+        "id": "KB-015",
+        "score": 8.679388865361567,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-028",
+        "score": 3.9012208655157408,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-014",
+        "score": 3.615063265466028,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "what does premium pricing cost",
+    "top": [
+      {
+        "id": "KB-015",
+        "score": 8.632142426084922,
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "query": "cancel my subscription",
+    "top": [
+      {
+        "id": "KB-016",
+        "score": 6.60202682545004,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-006",
+        "score": 4.462294198476489,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-028",
+        "score": 1.981556944221368,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "stop auto renewal",
+    "top": [
+      {
+        "id": "KB-016",
+        "score": 7.501375427521728,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-014",
+        "score": 2.5280145393487223,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "I want a refund",
+    "top": [
+      {
+        "id": "KB-017",
+        "score": 5.8602444309391295,
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "query": "can I get my money back for the annual plan",
+    "top": [
+      {
+        "id": "KB-017",
+        "score": 10.532925590584059,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-016",
+        "score": 2.020095765940363,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-028",
+        "score": 1.981556944221368,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "unknown charge on my credit card",
+    "top": [
+      {
+        "id": "KB-018",
+        "score": 11.066896818261228,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-017",
+        "score": 4.846038913351009,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-019",
+        "score": 3.452049574829293,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "what is NIMBUS CLOUD on my bank statement",
+    "top": [
+      {
+        "id": "KB-018",
+        "score": 6.89699750746632,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-021",
+        "score": 2.5280145393487223,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-010",
+        "score": 1.6307821979805872,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "update my payment card",
+    "top": [
+      {
+        "id": "KB-019",
+        "score": 12.521603234190053,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-018",
+        "score": 3.8117371553471138,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-021",
+        "score": 2.5280145393487223,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "my card expired and payment failed",
+    "top": [
+      {
+        "id": "KB-019",
+        "score": 13.807523481099288,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-018",
+        "score": 3.8117371553471138,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-005",
+        "score": 3.715646602159418,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "download an invoice",
+    "top": [
+      {
+        "id": "KB-020",
+        "score": 9.256439774283123,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-007",
+        "score": 3.9148357698495464,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-022",
+        "score": 2.254117810623417,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "need a VAT receipt for my company",
+    "top": [
+      {
+        "id": "KB-020",
+        "score": 13.778175916159618,
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "query": "app crashes when I open it",
+    "top": [
+      {
+        "id": "KB-021",
+        "score": 8.788429410499925,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-026",
+        "score": 3.1266348467497362,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-022",
+        "score": 2.5422466906143844,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "nimbus won't launch keeps crashing",
+    "top": [
+      {
+        "id": "KB-021",
+        "score": 10.828003944180455,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-010",
+        "score": 1.6307821979805872,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-023",
+        "score": 1.6098742375135886,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "the app is really slow",
+    "top": [
+      {
+        "id": "KB-022",
+        "score": 7.877457319697006,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-026",
+        "score": 2.21567470541564,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-021",
+        "score": 2.1013739171749624,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "laggy scrolling clear cache",
+    "top": [
+      {
+        "id": "KB-022",
+        "score": 14.312927288571085,
+        "confidence": "high"
+      }
+    ]
+  },
+  {
+    "query": "battery drains fast",
+    "top": [
+      {
+        "id": "KB-023",
+        "score": 10.620761807344476,
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "query": "nimbus is killing my power in the background",
+    "top": [
+      {
+        "id": "KB-023",
+        "score": 10.454874178803031,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-010",
+        "score": 1.6307821979805872,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-006",
+        "score": 1.5996200195766552,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "not getting notifications",
+    "top": [
+      {
+        "id": "KB-024",
+        "score": 5.826607166925839,
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "query": "push alerts stopped",
+    "top": [
+      {
+        "id": "KB-024",
+        "score": 9.982822332517976,
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "query": "enable dark mode",
+    "top": [
+      {
+        "id": "KB-025",
+        "score": 5.531506676738563,
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "query": "change the app theme appearance",
+    "top": [
+      {
+        "id": "KB-025",
+        "score": 12.197901104280248,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-002",
+        "score": 3.542586017851794,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-026",
+        "score": 2.21567470541564,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "lock the app with face id",
+    "top": [
+      {
+        "id": "KB-026",
+        "score": 11.447469093289108,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-005",
+        "score": 3.9358558492357023,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-001",
+        "score": 2.756982029977865,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "biometric app lock",
+    "top": [
+      {
+        "id": "KB-026",
+        "score": 10.148596920699735,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-005",
+        "score": 3.9358558492357023,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-001",
+        "score": 2.756982029977865,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "sign out of all devices",
+    "top": [
+      {
+        "id": "KB-027",
+        "score": 11.664799787209017,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-024",
+        "score": 3.8461404955078833,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-001",
+        "score": 3.636265555230041,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "my laptop was stolen how do I log it out",
+    "top": [
+      {
+        "id": "KB-027",
+        "score": 10.73105852384435,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-024",
+        "score": 7.169989586772578,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-001",
+        "score": 3.636265555230041,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "add my family to my plan",
+    "top": [
+      {
+        "id": "KB-028",
+        "score": 9.23374274422967,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-019",
+        "score": 3.4588579271126934,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-020",
+        "score": 3.1437965936038985,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "invite members to share storage",
+    "top": [
+      {
+        "id": "KB-028",
+        "score": 13.174627444720874,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-013",
+        "score": 6.678001291972626,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-014",
+        "score": 5.181610923678342,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "upload stuck",
+    "top": [
+      {
+        "id": "KB-029",
+        "score": 8.292691868782772,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-010",
+        "score": 1.5685872009776236,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-014",
+        "score": 1.5685872009776236,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "large file transfer keeps failing",
+    "top": [
+      {
+        "id": "KB-029",
+        "score": 8.662562967762392,
+        "confidence": "high"
+      },
+      {
+        "id": "KB-008",
+        "score": 4.289612057168873,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-014",
+        "score": 3.199369398958211,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "talk to a human agent",
+    "top": [
+      {
+        "id": "KB-030",
+        "score": 9.602278166667318,
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "query": "how long until support replies",
+    "top": [
+      {
+        "id": "KB-030",
+        "score": 6.782474796995218,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-016",
+        "score": 3.4052365983564923,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-029",
+        "score": 2.504330028240628,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "what's the weather in Dublin",
+    "top": []
+  },
+  {
+    "query": "recommend a good pizza place",
+    "top": []
+  },
+  {
+    "query": "how do I bake sourdough bread",
+    "top": []
+  },
+  {
+    "query": "who won the football match",
+    "top": [
+      {
+        "id": "KB-018",
+        "score": 2.9036293660236994,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "translate hello into French",
+    "top": []
+  },
+  {
+    "query": "my car won't start",
+    "top": [
+      {
+        "id": "KB-004",
+        "score": 2.7781885633057883,
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "query": "book a flight to London",
+    "top": []
+  },
+  {
+    "query": "pls help locked out cant get in",
+    "top": [
+      {
+        "id": "KB-001",
+        "score": 5.51396405995573,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-027",
+        "score": 4.09058792738419,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-005",
+        "score": 3.9358558492357023,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "reset link expired before I clicked it",
+    "top": [
+      {
+        "id": "KB-001",
+        "score": 8.964193753168706,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-005",
+        "score": 4.4648235285475035,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-013",
+        "score": 3.7576871016020665,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "passwrd reset",
+    "top": [
+      {
+        "id": "KB-001",
+        "score": 4.273128579608206,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-005",
+        "score": 2.3922664683571435,
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "query": "got a new phone, authenticator codes are gone",
+    "top": [
+      {
+        "id": "KB-003",
+        "score": 9.230320203598247,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-004",
+        "score": 5.596612489948674,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-002",
+        "score": 5.392017236612111,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "how to make my account more secure",
+    "top": [
+      {
+        "id": "KB-005",
+        "score": 4.048039507994499,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-014",
+        "score": 2.5280145393487223,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-016",
+        "score": 2.4582678934523203,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "someone else might be using my account",
+    "top": [
+      {
+        "id": "KB-006",
+        "score": 2.020095765940363,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-002",
+        "score": 1.7048922750053812,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-005",
+        "score": 1.6557730396373556,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "wipe everything and leave nimbus",
+    "top": [
+      {
+        "id": "KB-007",
+        "score": 3.129731223719044,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-010",
+        "score": 1.6307821979805872,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-023",
+        "score": 1.6098742375135886,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "my docs on the ipad dont match my mac",
+    "top": [
+      {
+        "id": "KB-018",
+        "score": 2.9036293660236994,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "uploads only happen at home",
+    "top": [
+      {
+        "id": "KB-014",
+        "score": 3.304913110524876,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-023",
+        "score": 3.2435616347201583,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-029",
+        "score": 2.9296645015838587,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "pics from my camera arent showing up",
+    "top": [
+      {
+        "id": "KB-011",
+        "score": 8.300702862551173,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-012",
+        "score": 3.4521081348689324,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-023",
+        "score": 3.0094540906153804,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "binned a folder by mistake",
+    "top": [
+      {
+        "id": "KB-013",
+        "score": 4.044851599163072,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-001",
+        "score": 2.2324317821110053,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "send a file to someone without an account",
+    "top": [
+      {
+        "id": "KB-002",
+        "score": 3.8950556414589514,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-021",
+        "score": 3.377705714869186,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-009",
+        "score": 3.175875273153565,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "says I've run out of room",
+    "top": [
+      {
+        "id": "KB-027",
+        "score": 4.09058792738419,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-001",
+        "score": 2.756982029977865,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-023",
+        "score": 2.4810851897234922,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "how much is 2TB",
+    "top": []
+  },
+  {
+    "query": "dont want to pay anymore",
+    "top": [
+      {
+        "id": "KB-015",
+        "score": 3.191867878037523,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "charged twice this month",
+    "top": [
+      {
+        "id": "KB-017",
+        "score": 5.177618312264128,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-018",
+        "score": 3.210545792814992,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-020",
+        "score": 2.7781409175399046,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "paypal instead of card",
+    "top": [
+      {
+        "id": "KB-019",
+        "score": 6.522017197968109,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-018",
+        "score": 3.8117371553471138,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-026",
+        "score": 3.2565217905676347,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "expense report proof of purchase",
+    "top": [
+      {
+        "id": "KB-021",
+        "score": 3.040933637421366,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-017",
+        "score": 2.9844826021775437,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "app closes immediately",
+    "top": [
+      {
+        "id": "KB-022",
+        "score": 4.492379664375594,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-006",
+        "score": 3.4052365983564923,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-015",
+        "score": 3.191867878037523,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "phone gets hot and dies since installing",
+    "top": [
+      {
+        "id": "KB-029",
+        "score": 3.4491761850398657,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-028",
+        "score": 2.504330028240628,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-027",
+        "score": 1.894632602979453,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "no alerts when someone shares with me",
+    "top": [
+      {
+        "id": "KB-024",
+        "score": 4.991411166258988,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-014",
+        "score": 4.718177905802293,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-013",
+        "score": 4.050592682854468,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "white screen hurts my eyes at night",
+    "top": [
+      {
+        "id": "KB-004",
+        "score": 3.2598878513004665,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-001",
+        "score": 2.2324317821110053,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "kids want their own space on my plan",
+    "top": [
+      {
+        "id": "KB-014",
+        "score": 4.126261743080582,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-016",
+        "score": 3.9044513144189397,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-029",
+        "score": 2.9965282844548904,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "video upload stuck at 99%",
+    "top": [
+      {
+        "id": "KB-029",
+        "score": 8.292691868782772,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-014",
+        "score": 4.096601740326346,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-011",
+        "score": 3.9835785648209017,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "speak to someone real",
+    "top": []
+  },
+  {
+    "query": "is my data safe if I uninstall",
+    "top": [
+      {
+        "id": "KB-010",
+        "score": 4.003904456752984,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-007",
+        "score": 3.9148357698495464,
+        "confidence": "low"
+      },
+      {
+        "id": "KB-021",
+        "score": 3.7246047727888327,
+        "confidence": "medium"
+      }
+    ]
+  },
+  {
+    "query": "what's the capital of Ireland",
+    "top": []
+  },
+  {
+    "query": "reset my router password",
+    "top": [
+      {
+        "id": "KB-001",
+        "score": 6.622627569979214,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-005",
+        "score": 4.10950717119689,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-008",
+        "score": 2.9036293660236994,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "cancel my gym membership",
+    "top": [
+      {
+        "id": "KB-016",
+        "score": 6.60202682545004,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-006",
+        "score": 4.462294198476489,
+        "confidence": "medium"
+      },
+      {
+        "id": "KB-028",
+        "score": 1.981556944221368,
+        "confidence": "low"
+      }
+    ]
+  },
+  {
+    "query": "refund for my train ticket",
+    "top": [
+      {
+        "id": "KB-017",
+        "score": 5.8602444309391295,
+        "confidence": "low"
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  eval:
+    name: Eval (Python reference) + golden drift check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python3 tools/eval.py
+      # golden.json is deterministic. If a lexicon/KB change wasn't followed
+      # by `make eval`, this fails and tells you to commit the new numbers.
+      - run: git diff --exit-code eval/golden.json
+
+  core-linux:
+    name: swift test (Linux)
+    runs-on: ubuntu-latest
+    container: swift:5.10
+    steps:
+      - uses: actions/checkout@v4
+      - run: swift test 2>&1 | tee test.log
+      - run: grep SUPPORTSENSE_LATENCY test.log || true
+
+  core-macos-and-app:
+    name: swift test (macOS) + build iOS app
+    runs-on: macos-14
+    steps:
+      - uses: actions/checkout@v4
+      - run: swift test 2>&1 | tee test.log
+      - run: grep SUPPORTSENSE_LATENCY test.log || true
+      - run: brew install xcodegen
+      - run: cd App && xcodegen generate
+      - name: Build for iOS Simulator
+        run: |
+          cd App
+          xcodebuild -project SupportSense.xcodeproj -scheme SupportSense \
+            -destination 'generic/platform=iOS Simulator' \
+            CODE_SIGNING_ALLOWED=NO build | tail -40
+          exit ${PIPESTATUS[0]}

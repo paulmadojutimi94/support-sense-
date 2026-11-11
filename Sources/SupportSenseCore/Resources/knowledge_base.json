@@ -1,0 +1,212 @@
+[
+  {
+    "id": "KB-001",
+    "title": "Reset a forgotten password",
+    "category": "Account",
+    "tags": ["password", "reset", "locked out", "forgot"],
+    "body": "If you forgot your Nimbus password, open the login screen and tap Forgot Password. Enter the email address on your account and we will send a reset link that expires after 30 minutes. Open the link on any device and choose a new password with at least 12 characters. If the email does not arrive, check your spam folder and confirm you used the right address."
+  },
+  {
+    "id": "KB-002",
+    "title": "Change your account email address",
+    "category": "Account",
+    "tags": ["email", "change", "username"],
+    "body": "Go to Settings, then Account, then Email. Enter the new email address and confirm with your current password. We send a verification code to the new address, and the change takes effect once you enter that code. Your old address receives a notice so you can reverse the change if it was not you."
+  },
+  {
+    "id": "KB-003",
+    "title": "Set up two-factor authentication",
+    "category": "Security",
+    "tags": ["2fa", "security", "verification code", "authenticator"],
+    "body": "Two-factor authentication adds a second check when you log in. Open Settings, then Security, then Two-Factor Authentication, and choose either an authenticator app or text message codes. Save the ten backup codes somewhere safe, because they are the only way back in if you lose your device."
+  },
+  {
+    "id": "KB-004",
+    "title": "Lost access to your two-factor device",
+    "category": "Security",
+    "tags": ["2fa", "lost device", "backup codes", "recovery"],
+    "body": "If you lost the device that receives your verification codes, use one of your backup codes on the login screen. Each backup code works once. If you have no backup codes, start account recovery from the login screen; recovery takes up to 72 hours while we verify ownership."
+  },
+  {
+    "id": "KB-005",
+    "title": "Account locked after too many login attempts",
+    "category": "Security",
+    "tags": ["locked", "login", "attempts", "suspended"],
+    "body": "After ten failed login attempts we lock the account for 15 minutes to protect it. Wait for the lock to expire, then try again or reset your password. If you did not make those attempts, change your password and turn on two-factor authentication."
+  },
+  {
+    "id": "KB-006",
+    "title": "Delete your Nimbus account",
+    "category": "Account",
+    "tags": ["delete", "close account", "privacy", "gdpr"],
+    "body": "Deleting your account permanently removes your files, photos, and history after a 14 day grace period. Cancel any paid plan first. Then go to Settings, Account, Delete Account, and confirm with your password. You can log in during the grace period to cancel the deletion."
+  },
+  {
+    "id": "KB-007",
+    "title": "Download a copy of your data",
+    "category": "Account",
+    "tags": ["export", "download", "data", "privacy", "gdpr"],
+    "body": "You can request an export of everything stored in your account. Go to Settings, Privacy, Export My Data. We prepare a zip archive and email you a download link within 48 hours. The link stays valid for seven days."
+  },
+  {
+    "id": "KB-008",
+    "title": "Fix Wi-Fi sync problems",
+    "category": "Connectivity",
+    "tags": ["wifi", "sync", "network", "offline"],
+    "body": "Nimbus only syncs large files over Wi-Fi by default. Make sure your device is connected to Wi-Fi and that Low Data Mode is off. Toggle Wi-Fi off and on, then open the app and pull down to refresh. If sync still fails, restart the router and the device."
+  },
+  {
+    "id": "KB-009",
+    "title": "Files not syncing between devices",
+    "category": "Sync",
+    "tags": ["sync", "devices", "missing files", "conflict"],
+    "body": "When a file changes on one device but not another, check that both devices are logged in to the same account and that sync is turned on in Settings. Files over 5 GB do not sync on the free plan. If two devices edit the same file offline, we keep both versions and mark one as a conflicted copy."
+  },
+  {
+    "id": "KB-010",
+    "title": "Use Nimbus on cellular data",
+    "category": "Connectivity",
+    "tags": ["cellular", "mobile data", "roaming"],
+    "body": "To sync without Wi-Fi, open Settings, Sync, and turn on Use Cellular Data. Large uploads can use a lot of your data allowance, so you can set a limit per month. Sync pauses automatically while roaming unless you allow it."
+  },
+  {
+    "id": "KB-011",
+    "title": "Back up photos automatically",
+    "category": "Photos",
+    "tags": ["photos", "backup", "camera roll", "automatic"],
+    "body": "Turn on Photo Backup in Settings, Photos to upload new photos and videos from your camera roll automatically. Backups run when the app is open or charging overnight. Original quality counts against your storage, while Saver quality compresses images to save space."
+  },
+  {
+    "id": "KB-012",
+    "title": "Recover deleted files or photos",
+    "category": "Files",
+    "tags": ["recover", "restore", "deleted", "trash", "photos"],
+    "body": "Deleted files and photos stay in the Trash for 30 days. Open Trash from the sidebar, select the items, and tap Restore. After 30 days items are permanently deleted and cannot be recovered by support."
+  },
+  {
+    "id": "KB-013",
+    "title": "Share a file or folder",
+    "category": "Files",
+    "tags": ["share", "link", "collaborate", "permissions"],
+    "body": "Select a file or folder and tap Share. You can invite people by email with view or edit permissions, or create a link anyone can open. Links can have an expiry date and a password. You can revoke access at any time from the Shared panel."
+  },
+  {
+    "id": "KB-014",
+    "title": "Storage is full",
+    "category": "Storage",
+    "tags": ["storage", "full", "quota", "space"],
+    "body": "When your storage is full, new files stop uploading. Open Settings, Storage to see what uses the most space. Empty the Trash, delete large videos you no longer need, or upgrade your plan for more storage. Shared files only count against the owner's storage."
+  },
+  {
+    "id": "KB-015",
+    "title": "Compare plans and upgrade",
+    "category": "Billing",
+    "tags": ["plan", "upgrade", "pricing", "premium"],
+    "body": "Nimbus offers Free with 5 GB, Plus with 200 GB, and Pro with 2 TB of storage. Upgrade from Settings, Plan. The upgrade applies immediately and you pay a prorated amount for the rest of the billing period."
+  },
+  {
+    "id": "KB-016",
+    "title": "Cancel your paid plan",
+    "category": "Billing",
+    "tags": ["cancel", "plan", "downgrade", "stop renewal"],
+    "body": "Cancel from Settings, Plan, Cancel Plan. You keep paid features until the end of the current billing period, then move to the Free plan. If you use more than 5 GB at that point, uploads pause until you free up space. Cancelling does not delete your files."
+  },
+  {
+    "id": "KB-017",
+    "title": "Request a refund",
+    "category": "Billing",
+    "tags": ["refund", "charge", "billing", "money"],
+    "body": "We refund annual plans in full within 14 days of purchase, and monthly plans are not refunded for partial months. To request a refund, open Settings, Plan, Billing History, select the charge, and tap Request Refund. Refunds reach your card within 5 to 10 business days."
+  },
+  {
+    "id": "KB-018",
+    "title": "Unrecognised charge on your card",
+    "category": "Billing",
+    "tags": ["charge", "card", "unknown", "fraud", "billing"],
+    "body": "If you see a Nimbus charge you do not recognise, check Billing History in every account you own, including family members' accounts. Charges appear on statements as NIMBUS CLOUD. If you still cannot match the charge, contact support with the last four digits of the card and the date."
+  },
+  {
+    "id": "KB-019",
+    "title": "Update your payment method",
+    "category": "Billing",
+    "tags": ["payment", "card", "expired", "billing"],
+    "body": "Go to Settings, Plan, Payment Method and add a new card or PayPal account. If a payment fails, we retry three times over seven days and email you each time. Your plan stays active during the retry period."
+  },
+  {
+    "id": "KB-020",
+    "title": "Download receipts",
+    "category": "Billing",
+    "tags": ["receipt", "tax", "vat", "billing history"],
+    "body": "Every charge has a receipt in Settings, Plan, Billing History. Tap a charge to download a PDF receipt. To add a company name or VAT number to future receipts, edit your billing details before the next charge."
+  },
+  {
+    "id": "KB-021",
+    "title": "App crashes on launch",
+    "category": "Troubleshooting",
+    "tags": ["crashes", "launch", "won't open", "bug"],
+    "body": "If the app crashes when you open it, update to the latest version from the App Store first. Then restart your device. If it still crashes, delete and reinstall the app; your files are safe in the cloud. Send us the crash report from Settings, Help, Diagnostics if the problem continues."
+  },
+  {
+    "id": "KB-022",
+    "title": "App is slow or laggy",
+    "category": "Troubleshooting",
+    "tags": ["performance", "slow", "speed", "cache"],
+    "body": "Slow performance is usually caused by a large local cache or a poor connection. Open Settings, Storage, Clear Cache to remove downloaded previews. Close other apps that use a lot of memory, and check your connection speed."
+  },
+  {
+    "id": "KB-023",
+    "title": "Battery drains quickly with Nimbus",
+    "category": "Troubleshooting",
+    "tags": ["battery", "drain", "power", "background"],
+    "body": "Photo Backup and background sync can use battery while large libraries upload. Set Photo Backup to run only while charging in Settings, Photos. After the first full backup finishes, battery use drops to normal levels."
+  },
+  {
+    "id": "KB-024",
+    "title": "Notifications not appearing",
+    "category": "Troubleshooting",
+    "tags": ["notifications", "alerts", "push"],
+    "body": "Check that notifications are allowed for Nimbus in your device settings and inside the app under Settings, Notifications. Focus modes and Do Not Disturb can hide alerts. Log out and back in to register the device for push notifications again."
+  },
+  {
+    "id": "KB-025",
+    "title": "Turn on dark mode",
+    "category": "App",
+    "tags": ["darkmode", "theme", "appearance"],
+    "body": "Nimbus follows your device appearance by default. To choose a theme just for the app, open Settings, Appearance and pick Light, Dark, or Automatic."
+  },
+  {
+    "id": "KB-026",
+    "title": "Unlock the app with Face ID",
+    "category": "Security",
+    "tags": ["faceid", "biometric", "app lock", "passcode"],
+    "body": "Open Settings, Security, App Lock and turn on Face ID. When the app opens you will be asked to authenticate. If Face ID fails three times, you can use your device passcode instead."
+  },
+  {
+    "id": "KB-027",
+    "title": "Sign out of other devices",
+    "category": "Security",
+    "tags": ["devices", "sessions", "sign out", "stolen"],
+    "body": "Open Settings, Security, Devices to see every device logged in to your account. Tap a device and choose Sign Out, or tap Sign Out Everywhere. If a device was lost or stolen, sign it out and then change your password."
+  },
+  {
+    "id": "KB-028",
+    "title": "Add family members to your plan",
+    "category": "Billing",
+    "tags": ["family", "share plan", "members", "invite"],
+    "body": "Pro plans can be shared with up to five family members. Open Settings, Plan, Family and invite each person by email. Each member gets private storage drawn from the shared 2 TB, and only the organiser is billed."
+  },
+  {
+    "id": "KB-029",
+    "title": "Upload fails or gets stuck",
+    "category": "Files",
+    "tags": ["upload", "stuck", "failed", "error"],
+    "body": "If an upload is stuck, check your storage space and connection first. Single files larger than 5 GB need the Plus or Pro plan. Pause and resume the upload from the Transfers panel, and keep the app open until large uploads finish."
+  },
+  {
+    "id": "KB-030",
+    "title": "Contact a support agent",
+    "category": "Support",
+    "tags": ["contact", "agent", "human", "chat", "phone support"],
+    "body": "Chat with an agent from Settings, Help, Contact Us. Plus and Pro members get priority replies within four hours, and Free members within two business days. We never ask for your password over chat or email."
+  }
+]

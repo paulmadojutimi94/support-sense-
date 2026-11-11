@@ -1,5 +1,7 @@
 # SupportSense
 
+[![CI](https://github.com/paulmadojutimi94/support-sense-/actions/workflows/ci.yml/badge.svg)](https://github.com/paulmadojutimi94/support-sense-/actions/workflows/ci.yml)
+
 **A SwiftUI app that takes a support question and returns ranked answer cards from a local knowledge base, each with a one-line summary, a confidence label, and thumbs-up/down feedback capture.** Everything runs on the device: no network, no API bill, nothing the user types leaves the phone.
 
 > **The headline result is a warning, not a win.** On questions I wrote while looking at the articles, top-1 accuracy is **98.4%**. On a frozen held-out set written the way real users talk, it is **23.1%**. The confidence labels survived that drop: across both sets, **zero wrong answers were labelled High**. So the app knows when it doesn't know, and says so. See [POSTMORTEM.md](POSTMORTEM.md).

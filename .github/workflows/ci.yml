@@ -24,19 +24,28 @@ jobs:
     container: swift:5.10
     steps:
       - uses: actions/checkout@v4
-      - run: swift test 2>&1 | tee test.log
+      - name: swift test
+        shell: bash
+        run: |
+          set -o pipefail
+          swift test 2>&1 | tee test.log
       - run: grep SUPPORTSENSE_LATENCY test.log || true
 
   core-macos-and-app:
     name: swift test (macOS) + build iOS app
-    runs-on: macos-14
+    runs-on: macos-latest
     steps:
       - uses: actions/checkout@v4
-      - run: swift test 2>&1 | tee test.log
+      - name: swift test
+        shell: bash
+        run: |
+          set -o pipefail
+          swift test 2>&1 | tee test.log
       - run: grep SUPPORTSENSE_LATENCY test.log || true
       - run: brew install xcodegen
       - run: cd App && xcodegen generate
       - name: Build for iOS Simulator
+        shell: bash
         run: |
           cd App
           xcodebuild -project SupportSense.xcodeproj -scheme SupportSense \
